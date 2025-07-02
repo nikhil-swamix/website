@@ -15,7 +15,7 @@ Before starting, ensure your server meets the [minimum requirements](/docs/advan
 Install Coolify on your server using the command below:
 
 ```bash
-curl -sSL https://coolify.io/install | bash
+curl -fsSL https://cdn.coollabs.io/coolify/install.sh | bash
 ```
 
 Once the installation is complete, open the Coolify dashboard in your web browser.  
